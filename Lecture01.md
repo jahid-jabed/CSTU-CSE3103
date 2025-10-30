@@ -1,4 +1,4 @@
-# 🧠 Lecture: Data Representation and Computer Organization
+# 🧠 Lecture 01: Data Representation and Computer Organization
 
 ## 📘 Topics Covered
 1. Big-Endian and Little-Endian Memory Organization  
@@ -288,17 +288,3 @@ Each instruction executed sequentially by a single processor.
 
 ---
 
-## 🧠 Quick Quiz
-1. What is the main difference between Big-Endian and Little-Endian?  
-2. List three types of peripherals and their functions.  
-3. What are the main components of the Von Neumann architecture?  
-4. Explain the Von Neumann bottleneck.  
-5. What does SISD stand for?  
-
----
-
-## 📚 References
-- Patterson & Hennessy, *Computer Organization and Design*  
-- Stallings, *Computer Organization and Architecture*  
-- Tanenbaum, *Structured Computer Organization*  
-- Flynn, M. J. (1972). *Some Computer Organizations and Their Effectiveness.*
