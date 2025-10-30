@@ -1,4 +1,4 @@
-# 🧠 Lecture 01: Data Representation and Computer Organization
+# 🧠 Lecture: Data Representation and Computer Organization
 
 ## 📘 Topics Covered
 1. Big-Endian and Little-Endian Memory Organization  
@@ -200,7 +200,7 @@ Processing occurs **sequentially** — one instruction operates on one data elem
 ```mermaid
 graph LR
   INP[Input Devices] --> CU[Control Unit]
-  CU --> MEM[Memory (Instructions + Data)]
+  CU --> MEM["Memory (Instructions + Data)"]
   MEM --> ALU[Arithmetic Logic Unit]
   ALU --> OUT[Output Devices]
   CU --> ALU
@@ -249,7 +249,7 @@ flowchart TD
 | Data Stream | Operates on one data item |
 | Example | Intel 8086, early microprocessors |
 
----
+--- 
 
 ### 🧮 Example Assembly Code
 ```assembly
@@ -287,4 +287,5 @@ Each instruction executed sequentially by a single processor.
 | Von Neumann SISD | Single memory and sequential execution model |
 
 ---
+
 
